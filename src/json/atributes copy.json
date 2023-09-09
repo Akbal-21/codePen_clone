@@ -1,0 +1,262 @@
+{
+	"button": {
+		"button": [
+			"autofocus",
+			"value",
+			"type",
+			"name",
+			"form",
+			"disabled",
+			"class",
+			"id",
+			"acceskey",
+			"contenteditable",
+			"contextmenu",
+			"data-",
+			"dir",
+			"draggable",
+			"hiden",
+			"itemdrop",
+			"lang",
+			"spellcheck",
+			"style",
+			"title"
+		]
+	},
+	"q": {
+		"q": [
+			"cite",
+			"class",
+			"id",
+			"acceskey",
+			"contenteditable",
+			"contextmenu",
+			"data-",
+			"dir",
+			"draggable",
+			"hiden",
+			"itemdrop",
+			"lang",
+			"spellcheck",
+			"style",
+			"title"
+		]
+	},
+	"ins": {
+		"ins": [
+			"datetime",
+			"cite",
+			"class",
+			"id",
+			"acceskey",
+			"contenteditable",
+			"contextmenu",
+			"data-",
+			"dir",
+			"draggable",
+			"hiden",
+			"itemdrop",
+			"lang",
+			"spellcheck",
+			"style",
+			"title"
+		]
+	},
+	"del": {
+		"del": [
+			"datetime",
+			"cite",
+			"id",
+			"class",
+			"acceskey",
+			"contenteditable",
+			"contextmenu",
+			"data-",
+			"dir",
+			"draggable",
+			"hiden",
+			"itemdrop",
+			"lang",
+			"spellcheck",
+			"style",
+			"title"
+		]
+	},
+	"a": {
+		"a": [
+			"download",
+			"href",
+			"hreflang",
+			"media",
+			"ping",
+			"rel",
+			"target",
+			"id",
+			"class",
+			"acceskey",
+			"contenteditable",
+			"contextmenu",
+			"data-",
+			"dir",
+			"draggable",
+			"hiden",
+			"itemdrop",
+			"lang",
+			"spellcheck",
+			"style",
+			"title"
+		]
+	},
+	"base": {
+		"base": [
+			"id",
+			"href",
+			"target",
+			"class",
+			"acceskey",
+			"contenteditable",
+			"contextmenu",
+			"data-",
+			"dir",
+			"draggable",
+			"hiden",
+			"itemdrop",
+			"lang",
+			"spellcheck",
+			"style",
+			"title"
+		]
+	},
+	"img": {
+		"img": [
+			"ismap",
+			"src",
+			"srcset",
+			"usemap",
+			"width",
+			"aling",
+			"alt",
+			"border",
+			"height",
+			"id",
+			"class",
+			"acceskey",
+			"contenteditable",
+			"contextmenu",
+			"data-",
+			"dir",
+			"draggable",
+			"hiden",
+			"itemdrop",
+			"lang",
+			"spellcheck",
+			"style",
+			"title"
+		]
+	},
+	"area": {
+		"area": [
+			"media",
+			"ping",
+			"rel",
+			"target",
+			"alt",
+			"cords",
+			"download",
+			"href",
+			"hreflang",
+			"id",
+			"class",
+			"acceskey",
+			"contenteditable",
+			"contextmenu",
+			"data-",
+			"dir",
+			"draggable",
+			"hiden",
+			"itemdrop",
+			"lang",
+			"spellcheck",
+			"style",
+			"title"
+		]
+	},
+	"map": {
+		"map": [
+			"name",
+			"id",
+			"class",
+			"acceskey",
+			"contenteditable",
+			"contextmenu",
+			"data-",
+			"dir",
+			"draggable",
+			"hiden",
+			"itemdrop",
+			"lang",
+			"spellcheck",
+			"style",
+			"title"
+		]
+	},
+	"param": {
+		"param": [
+			"name",
+			"value",
+			"id",
+			"class",
+			"acceskey",
+			"contenteditable",
+			"contextmenu",
+			"data-",
+			"dir",
+			"draggable",
+			"hiden",
+			"itemdrop",
+			"lang",
+			"spellcheck",
+			"style",
+			"title"
+		]
+	},
+	"ol": {
+		"ol": [
+			"reversed",
+			"start",
+			"id",
+			"class",
+			"acceskey",
+			"contenteditable",
+			"contextmenu",
+			"data-",
+			"dir",
+			"draggable",
+			"hiden",
+			"itemdrop",
+			"lang",
+			"spellcheck",
+			"style",
+			"title"
+		]
+	},
+	"li": {
+		"li": [
+			"value",
+			"id",
+			"class",
+			"acceskey",
+			"contenteditable",
+			"contextmenu",
+			"data-",
+			"dir",
+			"draggable",
+			"hiden",
+			"itemdrop",
+			"lang",
+			"spellcheck",
+			"style",
+			"title"
+		]
+	}
+}

@@ -1,0 +1,261 @@
+[
+	{
+		"id": 1,
+		"tipe": "Etiquetas de texto HTML",
+		"label": "<p>",
+		"labelfinis": "</p>",
+		"text": "p"
+	},
+	{
+		"id": 2,
+		"tipe": "Etiquetas de texto HTML",
+		"label": "<h1>",
+		"labelfinis": "</h1>",
+		"text": "h1"
+	},
+	{
+		"id": 3,
+		"tipe": "Etiquetas de texto HTML",
+		"label": "<h2>",
+		"labelfinis": "</h2>",
+		"text": "h2"
+	},
+	{
+		"id": 4,
+		"tipe": "Etiquetas de texto HTML",
+		"label": "<h3>",
+		"labelfinis": "</h3>",
+		"text": "h3"
+	},
+	{
+		"id": 5,
+		"tipe": "Etiquetas de texto HTML",
+		"label": "<h4>",
+		"labelfinis": "</h4>",
+		"text": "h4"
+	},
+	{
+		"id": 6,
+		"tipe": "Etiquetas de texto HTML",
+		"label": "<h5>",
+		"labelfinis": "</h5>",
+		"text": "h5"
+	},
+	{
+		"id": 7,
+		"tipe": "Etiquetas de texto HTML",
+		"label": "<h6>",
+		"labelfinis": "</h6>",
+		"text": "h6"
+	},
+	{
+		"id": 8,
+		"tipe": "Etiquetas de texto HTML",
+		"label": "<strong>",
+		"labelfinis": "</strong>",
+		"text": "strong"
+	},
+	{
+		"id": 9,
+		"tipe": "Etiquetas de texto HTML",
+		"label": "<em>",
+		"labelfinis": "</em>",
+		"text": "em"
+	},
+	{
+		"id": 10,
+		"tipe": "Etiquetas de texto HTML",
+		"label": "<abbr>",
+		"labelfinis": "</abbr>",
+		"text": "abbr"
+	},
+	{
+		"id": 11,
+		"tipe": "Etiquetas de texto HTML",
+		"label": "<address>",
+		"labelfinis": "</address>",
+		"text": "address"
+	},
+	{
+		"id": 12,
+		"tipe": "Etiquetas de texto HTML",
+		"labelfinis": "</bdo>",
+		"label": "<bdo>",
+		"text": "bdo"
+	},
+	{
+		"id": 13,
+		"tipe": "Etiquetas de texto HTML",
+		"label": "<blockquote>",
+		"labelfinis": "</blockquote>",
+		"text": "blockquote"
+	},
+	{
+		"id": 14,
+		"tipe": "Etiquetas de texto HTML",
+		"label": "<cite>",
+		"labelfinis": "</cite>",
+		"text": "cite"
+	},
+	{
+		"id": 15,
+		"tipe": "Etiquetas de texto HTML",
+		"label": "<q>",
+		"labelfinis": "</q>",
+		"text": "q"
+	},
+	{
+		"id": 16,
+		"tipe": "Etiquetas de texto HTML",
+		"label": "<code>",
+		"labelfinis": "</code>",
+		"text": "code"
+	},
+	{
+		"id": 17,
+		"tipe": "Etiquetas de texto HTML",
+		"label": "<ins>",
+		"labelfinis": "</ins>",
+		"text": "ins"
+	},
+	{
+		"id": 18,
+		"tipe": "Etiquetas de texto HTML",
+		"label": "<del>",
+		"labelfinis": "</del>",
+		"text": "del"
+	},
+	{
+		"id": 19,
+		"tipe": "Etiquetas de texto HTML",
+		"label": "<dfn>",
+		"labelfinis": "</dnf>",
+		"text": "dfn"
+	},
+	{
+		"id": 20,
+		"tipe": "Etiquetas de texto HTML",
+		"label": "<kbd>",
+		"labelfinis": "</kbd>",
+		"text": "kbd"
+	},
+	{
+		"id": 21,
+		"tipe": "Etiquetas de texto HTML",
+		"label": "<pre>",
+		"labelfinis": "</pre>",
+		"text": "samp"
+	},
+	{
+		"id": 22,
+		"tipe": "Etiquetas de texto HTML",
+		"label": "<var>",
+		"labelfinis": "</var>",
+		"text": "var"
+	},
+	{
+		"id": 23,
+		"tipe": "Etiquetas de texto HTML",
+		"label": "<br>",
+		"labelfinis": "</br>",
+		"text": "br"
+	},
+	{
+		"id": 24,
+		"tipe": "Etiquetas de texto HTML",
+		"label": "<div>",
+		"labelfinis": "</div>",
+		"text": "div"
+	},
+	{
+		"id": 25,
+		"tipe": "Etiquetas de enlace HTML",
+		"label": "<a>",
+		"labelfinis": "</a>",
+		"text": "a"
+	},
+	{
+		"id": 26,
+		"tipe": "Etiquetas de enlace HTML",
+		"label": "<base>",
+		"labelfinis": "</base>",
+		"text": "base"
+	},
+	{
+		"id": 27,
+		"tipe": "Etiquetas HTML de imagen y objeto",
+		"label": "<img>",
+		"labelfinis": "</img>",
+		"text": "img"
+	},
+	{
+		"id": 28,
+		"tipe": "Etiquetas HTML de imagen y objeto",
+		"label": "<area>",
+		"labelfinis": "</area>",
+		"text": "area"
+	},
+	{
+		"id": 29,
+		"tipe": "Etiquetas HTML de imagen y objeto",
+		"label": "<map>",
+		"labelfinis": "</map>",
+		"text": "map"
+	},
+	{
+		"id": 30,
+		"tipe": "Etiquetas HTML de imagen y objeto",
+		"label": "<param>",
+		"labelfinis": "</param>",
+		"text": "param"
+	},
+	{
+		"id": 31,
+		"tipe": "Etiquetas HTML de imagen y objeto",
+		"label": "<object>",
+		"labelfinis": "</object>",
+		"text": "object"
+	},
+	{
+		"id": 32,
+		"tipe": "Etiquetas de lista HTML",
+		"label": "<ul>",
+		"labelfinis": "</ul>",
+		"text": "ul"
+	},
+	{
+		"id": 33,
+		"tipe": "Etiquetas de lista HTML",
+		"label": "<ol>",
+		"labelfinis": "</ol>",
+		"text": "ol"
+	},
+	{
+		"id": 34,
+		"tipe": "Etiquetas de lista HTML",
+		"label": "<li>",
+		"labelfinis": "</li>",
+		"text": "li"
+	},
+	{
+		"id": 35,
+		"tipe": "Etiquetas de lista HTML",
+		"label": "<dl>",
+		"labelfinis": "</dl>",
+		"text": "dl"
+	},
+	{
+		"id": 36,
+		"tipe": "Etiquetas de lista HTML",
+		"label": "<dt>",
+		"labelfinis": "</dt>",
+		"text": "dt"
+	},
+	{
+		"id": 37,
+		"tipe": "Etiquetas de lista HTML",
+		"label": "<dd>",
+		"labelfinis": "</dd>",
+		"text": "dd"
+	}
+]
